@@ -66,7 +66,7 @@ var gg
 var ext'''
 
 
-galleryid = '1589674'
+galleryid = ''
 header = {
     'referer': f'https://hitomi.la/reader/{galleryid}.html'
 }
